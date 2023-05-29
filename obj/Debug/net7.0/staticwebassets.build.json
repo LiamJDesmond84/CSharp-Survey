@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "upxpz6Qt7Fv7D/8U0lnB9Eo4ATRxO1NeqiLzvnUS+X0=",
+  "Hash": "88JXPx29BKfFLZdZOWfbZ9O7KE7znbiNSGSPAEUi+sA=",
   "Source": "CSharp-Survey",
   "BasePath": "_content/CSharp-Survey",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\liamj\\Documents\\GitRepos\\CSharp-Survey\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "CSharp-Survey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\liamj\\Documents\\GitRepos\\CSharp-Survey\\wwwroot\\",
+      "BasePath": "_content/CSharp-Survey",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\liamj\\Documents\\GitRepos\\CSharp-Survey\\wwwroot\\favicon.ico",

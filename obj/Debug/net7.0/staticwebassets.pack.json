@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CSharp-Survey.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\liamj\\Documents\\GitRepos\\CSharp-Survey\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\liamj\\Documents\\GitRepos\\CSharp-Survey\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
