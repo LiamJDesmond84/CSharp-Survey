@@ -1,5 +1,30 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿<body>
+    <div class="header">
+        <a href="#default" class="logo">CompanyLogo</a>
+        <div class="header-right">
+            <a href ="/"> Home</a>
+                <a class="active" href="/Home/Index">Survey</a>
+        </div>
+    </div>
+    <div>
+        <form action="submit" method="post">
+            <label for="Name">Your Name</label>
+            <input name="Name" type="text" />
+
+            <label for="Location">Location</label>
+            <input name="Location" type="text" />
+
+            <label for="Language">Favorite Language:</label>
+            <select name="Language">
+                <option value="C#">C#</option>
+                <option value="Java">Java</option>
+                <option value="Python">Python</option>
+                <option value="Aassembly">Assembly</option>
+            </select>
+
+            <label for="Comment">Comment(Optional)</label>
+            <textarea name="Comment" rows="10" cols="30"></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+</body>
