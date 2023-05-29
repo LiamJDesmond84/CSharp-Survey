@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharp-Survey.props" />
+</Project>
